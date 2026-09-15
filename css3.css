@@ -1,0 +1,22 @@
+.block{
+    display: block;
+    background: purple;
+    color: white;
+    margin: 5px;       
+    padding: 10px;
+}
+
+.inline{
+    display: inline;
+    background: green;
+    color: white;
+    margin:5px;
+    padding: 10px;
+}
+
+.inline-block{
+    display: inline-block;
+    background: orange;
+    color:white;
+    margin: 5px;
+}

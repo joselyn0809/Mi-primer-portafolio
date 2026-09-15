@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+.imagenfondo{
+    width: 100%;
+    height: 400%;
+    color: rgb(254, 252, 252);
+    text-align: center;
+    padding-top: 400px;
+/*Fondo con imagen*/
+background-image: url('imagen1.png');
+background-size:  cover;
+background-repeat: no-repeat;
+background-position: center;
+}
